@@ -1,0 +1,21 @@
+@import url('https://fonts.cdnfonts.com/css/stretch-pro');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800&family=Syne:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "underrated";
+    src: url("./assets/fonts/underated.otf");
+}
+
+@font-face {
+    font-family: "stretch pro";
+    src: url("./assets/fonts/StretchPro.otf");
+}
+
+@font-face {
+    font-family: "road rage";
+    src: url("./assets/fonts/Road_Rage.otf");
+}
